@@ -3,7 +3,7 @@
 A simple app to manage tasks, built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
-[Try it here!](https://bhavik127.github.io/todo_list) 
+[Try it here!](https://bhavikd127.github.io/todo_list) 
 
 ## ✨ Features
 - Add new tasks to your list
@@ -12,7 +12,7 @@ A simple app to manage tasks, built with HTML, CSS, and JavaScript.
 - Tasks are saved even after closing browser
 
 ## 🚀 How to Use
-1. Open the [Live Demo](https://bhavik127.github.io/todo_list)
+1. Open the [Live Demo](https://bhavikd127.github.io/todo_list)
 2. Type a task and press Enter to add it
 3. Click the checkbox to mark as complete
 4. Click the trash icon to delete a task
