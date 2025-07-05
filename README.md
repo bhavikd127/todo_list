@@ -4,7 +4,6 @@ A simple app to manage tasks, built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 [Try it here!](https://bhavik127.github.io/todo_list) 
-*(Replace "yourusername" with your actual GitHub username)*
 
 ## ✨ Features
 - Add new tasks to your list
