@@ -1,15 +1,23 @@
-# 📝 To-Do List App  
+# 📝 To-Do List App
 
-A simple app to manage tasks, built with **HTML, CSS, and JavaScript**.  
+A simple app to manage tasks, built with HTML, CSS, and JavaScript.
 
-## 🔗 Live Demo  
-[Try it here!](https://bhavik127.github.io/todo_list)  
+## 🔗 Live Demo
+[Try it here!](https://bhavik127.github.io/todo_list) 
+*(Replace "yourusername" with your actual GitHub username)*
 
-## ✅ Features  
-- Add, delete, and mark tasks  
-- Saves tasks even after closing the browser  
-- Works on phones and computers  
+## ✨ Features
+- Add new tasks to your list
+- Mark tasks as complete
+- Delete tasks you don't need
+- Tasks are saved even after closing browser
 
-## 🚀 How to Run  
-1. Download the files (click **"Code" → "Download ZIP"**).  
-2. Open **`index.html`** in a web browser.  
+## 🚀 How to Use
+1. Open the [Live Demo](https://bhavik127.github.io/todo_list)
+2. Type a task and press Enter to add it
+3. Click the checkbox to mark as complete
+4. Click the trash icon to delete a task
+
+## 💻 How to Run Locally
+1. Download the project files
+2. Open `index.html` in any web browser
