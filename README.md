@@ -8,4 +8,4 @@ A simple to-do list app built with **HTML, CSS, and JavaScript**.
 🎨 Responsive design  
 
 ## Live Demo
-👉 [View Demo](https://yourusername.github.io/todo-list)  
+👉 [View Demo](https://bhavikd127.github.io/todo-list)  
