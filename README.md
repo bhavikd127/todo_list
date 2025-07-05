@@ -1,18 +1,15 @@
-# 📝 To-Do List Web App  
+# 📝 To-Do List App  
 
-A responsive to-do list app built with **HTML, CSS, and JavaScript** that helps users manage tasks efficiently.  
+A simple app to manage tasks, built with **HTML, CSS, and JavaScript**.  
 
-## 🚀 Live Demo  
-👉 [Try it here!](https://bhavikd127.github.io/todo_list/)  
+## 🔗 Live Demo  
+[Try it here!](https://bhavik127.github.io/todo_list)  
 
-![Screenshot](screenshot.png)
+## ✅ Features  
+- Add, delete, and mark tasks  
+- Saves tasks even after closing the browser  
+- Works on phones and computers  
 
-## ✨ Features  
-✅ Add, delete, and mark tasks as complete  
-✅ **Local Storage** – Saves tasks even after closing the browser  
-✅ **Responsive Design** – Works on mobile, tablet, and desktop  
-
-## 🛠️ How to Run Locally  
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/bhavikd127/todo_list.git
+## 🚀 How to Run  
+1. Download the files (click **"Code" → "Download ZIP"**).  
+2. Open **`index.html`** in a web browser.  
